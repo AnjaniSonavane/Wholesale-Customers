@@ -1,4 +1,4 @@
-# Wholesale-Customers Data updated_old data
+# Wholesale-Customers Data updated_1111
 
  The data set refers to clients of a wholesale distributor. It includes the annual spending in monetary units (m.u.) on diverse product categories
 The dataset downloaded from UCI machine learning repository.
